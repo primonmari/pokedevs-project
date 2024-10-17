@@ -18,4 +18,4 @@ O objetivo é proporcionar uma experiência envolvente em 4 aulas, utilizando te
 1. Clone o repositório git clone https://github.com/primonmari/projeto-pokedevs.git 
 2. Utilize a funcionalidade "Go Live" do VSCode ou abra o arquivo `index.html` no navegador  
 
-[Link para o projeto](https://primonmari.github.io/projeto-pokedevs)
+
